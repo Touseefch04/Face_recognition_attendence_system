@@ -1,0 +1,17 @@
+hi
+hello
+how are you
+i am also good
+problem relevent to student details
+student solution
+problem relevent to traindata
+traindata solution
+problem relevent to face recognition
+recognition solution
+problem relevent to attendence
+attendence solution
+help
+bye
+who created you
+what is chatbot
+what is your name
